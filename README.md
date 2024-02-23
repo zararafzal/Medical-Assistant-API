@@ -38,11 +38,3 @@ To run the application locally, follow these steps:
 2. Upload files or provide text input to start a chat session.
 3. Interact with the AI assistant by typing messages in the chat interface.
 4. The assistant will respond based on the conversation context and provided input.
-
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
